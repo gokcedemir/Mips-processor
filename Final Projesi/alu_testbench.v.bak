@@ -1,0 +1,13 @@
+`define DELAY 20
+module alu_testbench();
+
+wire zero;
+wire [31:0] ALU_result;
+reg [31:0] read_data_1, read_data_2;
+reg [4:0] shamt;
+reg [3:0] ALU_control;
+
+alu myalu(zero, ALU_result, read_data_1, read_data_2, shamt, ALU_control);
+
+
+endmodule

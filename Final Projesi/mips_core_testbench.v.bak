@@ -1,0 +1,2 @@
+`define DELAY 20
+module mips_core_testbench ();

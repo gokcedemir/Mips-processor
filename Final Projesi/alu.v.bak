@@ -1,0 +1,18 @@
+`define R_TYPE 000000   //opcode
+/*R-Type Instruction function code */
+`define ADD 6'b100000
+`define ADDU 6'b100001
+`define SUB 6'b100010
+`define AND 6'b100100
+`define OR 6'b100101
+`define SRA 6'b000011
+`define SRL 6'b000010
+`define SLL 6'b000000
+`define SLTU 6'b101011
+
+module alu(result,opcode, read_data_1, read_data_2, rd, shamt, func);   // ALU
+
+output reg [31:0] result;
+input [31:0] read_data_1, read_data_2;
+input [5:0] func, opcode;
+input [4:0] shamt, rd;

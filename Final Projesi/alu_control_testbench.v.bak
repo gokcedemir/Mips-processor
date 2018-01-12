@@ -1,0 +1,6 @@
+`define DELAY 20
+module alu_control_testbench();
+
+wire [2:0] ALU_control;  //3 bit control singal
+reg [2:0] ALUOp;  //3-bit 
+reg [5:0] funct;  //6-bit funciton field

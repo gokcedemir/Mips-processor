@@ -1,0 +1,10 @@
+module alu_control_unit(ALU_control, ALUOp, function_code);
+
+output [3:0] ALU_control;
+input [2:0] ALUOp;
+input [5:0] function_code;
+
+
+
+
+

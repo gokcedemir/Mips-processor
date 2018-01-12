@@ -1,0 +1,163 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do 141044067_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/mips_core.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_core
+# 
+# Top level modules:
+# 	mips_core
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/alu_control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_control_unit
+# 
+# Top level modules:
+# 	alu_control_unit
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/mips_registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/mips_instr_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_instr_mem
+# 
+# Top level modules:
+# 	mips_instr_mem
+# vlog -vlog01compat -work work +incdir+D:/Final\ Projesi {D:/Final Projesi/mips_data_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_data_mem
+# 
+# Top level modules:
+# 	mips_data_mem
+# 
+vlog -reportprogress 300 -work work {D:/Final Projesi/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+vlog -reportprogress 300 -work work {D:/Final Projesi/alu_control_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_control_testbench
+# 
+# Top level modules:
+# 	alu_control_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/alu_control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_control_unit
+# 
+# Top level modules:
+# 	alu_control_unit
+vlog -reportprogress 300 -work work {D:/Final Projesi/alu_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_testbench
+# 
+# Top level modules:
+# 	alu_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+vlog -reportprogress 300 -work work {D:/Final Projesi/control_unit_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control_unit_testbench
+# 
+# Top level modules:
+# 	control_unit_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_core.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_core
+# 
+# Top level modules:
+# 	mips_core
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_data_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_data_mem
+# 
+# Top level modules:
+# 	mips_data_mem
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_data_mem_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_data_mem_testbench
+# 
+# Top level modules:
+# 	mips_data_mem_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_inst_mem_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_inst_mem_testbench
+# 
+# Top level modules:
+# 	mips_inst_mem_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_instr_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_instr_mem
+# 
+# Top level modules:
+# 	mips_instr_mem
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_registers_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers_testbench
+# 
+# Top level modules:
+# 	mips_registers_testbench
+vlog -reportprogress 300 -work work {D:/Final Projesi/mips_testbench.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_testbench
+# 
+# Top level modules:
+# 	mips_testbench
+vsim work.mips_testbench
+# vsim work.mips_testbench 
+# Loading work.mips_testbench
+# Loading work.mips_core
+# Loading work.mips_instr_mem
+# Loading work.mips_registers
+# Loading work.control_unit
+# Loading work.alu_control_unit
+# Loading work.alu
+# Loading work.mips_data_mem
+step -current
+# Instruction: 00000010000100011001000000100010, PC:         0 RS:         16, RT:         17, regWrite_signal:1, RD_adress: 18, RD:4294967295 mem_address: 4294967295, ALU_REsult= 4294967295 , shamt =  0, Write_data= 11111111111111111111111111111111, Sign_Extend: 11111111111111111001000000100010
+# Instruction: 00000001111011100011100000100000, PC:         1 RS:         96, RT:         12, regWrite_signal:1, RD_adress:  7, RD:       113 mem_address:        113, ALU_REsult=        113 , shamt =  0, Write_data= 00000000000000000000000001110001, Sign_Extend: 00000000000000000011100000100000
+# Instruction: 00000010000011110100000000100000, PC:         2 RS:         16, RT:         96, regWrite_signal:1, RD_adress:  8, RD:        33 mem_address:         33, ALU_REsult=         33 , shamt =  0, Write_data= 00000000000000000000000000100001, Sign_Extend: 00000000000000000100000000100000
+# Instruction: 00000010000100011001000000100000, PC:         3 RS:         16, RT:         17, regWrite_signal:1, RD_adress: 18, RD:        33 mem_address:         33, ALU_REsult=         33 , shamt =  0, Write_data= 00000000000000000000000000100001, Sign_Extend: 11111111111111111001000000100000
+# Instruction: 00100010011100110000000000000001, PC:         4 RS:         19, RT:         19, regWrite_signal:1, RD_adress:  0, RD:        36 mem_address:         36, ALU_REsult=         36 , shamt =  0, Write_data= 00000000000000000000000000100100, Sign_Extend: 00000000000000000000000000000001
+# Instruction: 00000010100101010101100000101010, PC:         5 RS:         20, RT:         21, regWrite_signal:1, RD_adress: 11, RD:         0 mem_address:          0, ALU_REsult=          0 , shamt =  0, Write_data= 00000000000000000000000000000000, Sign_Extend: 00000000000000000101100000101010
+# Instruction: 00101010110011000000000000010000, PC:         6 RS:         22, RT:         32, regWrite_signal:1, RD_adress:  0, RD:         5 mem_address:          5, ALU_REsult=          5 , shamt =  0, Write_data= 00000000000000000000000000000101, Sign_Extend: 00000000000000000000000000010000
+# Instruction: 10001100101001110000000000001010, PC:         7 RS:          5, RT:        113, regWrite_signal:1, RD_adress:  0, RD:        15 mem_address:         15, ALU_REsult=         15 , shamt =  0, Write_data= 00000000000000000000000000001111, Sign_Extend: 00000000000000000000000000001010
+# Instruction: 10101101110110000000000000001101, PC:         8 RS:         12, RT:         24, regWrite_signal:0, RD_adress:  0, RD:        22 mem_address:         22, ALU_REsult=         22 , shamt =  0, Write_data= 00000000000000000000000000010110, Sign_Extend: 00000000000000000000000000001101
+# Instruction: 00000010000100011001000000100000, PC:         9 RS:         16, RT:         17, regWrite_signal:1, RD_adress: 18, RD:        33 mem_address:         33, ALU_REsult=         33 , shamt =  0, Write_data= 00000000000000000000000000100001, Sign_Extend: 11111111111111111001000000100000
+step
+step
+step

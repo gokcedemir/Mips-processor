@@ -1,0 +1,271 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Final Projesi\simulation\modelsim
+valu
+IB?edPfz?<;P@3bUQ4XOER2
+VihkJ751`MOPF:US:G6V7D2
+Z1 dD:\Final Projesi\simulation\modelsim
+w1514996195
+8D:/Final Projesi/alu.v
+FD:/Final Projesi/alu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-work work -O0
+!i10b 1
+!s100 ]a:LMgkaRc5kWW3ZIZGKo1
+!s85 0
+!s108 1515010363.547000
+!s107 D:/Final Projesi/alu.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/alu.v|
+!s101 -O0
+valu_control_testbench
+IZX28=TCRafXW?abfH`<Q@0
+V=`Q?dL9QzGleM9lXzhB_c3
+R1
+w1514498288
+8D:/Final Projesi/alu_control_testbench.v
+FD:/Final Projesi/alu_control_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ]fH]YdQ@MRP=_imAaoUF93
+!s85 0
+!s108 1515010363.676000
+!s107 D:/Final Projesi/alu_control_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/alu_control_testbench.v|
+!s101 -O0
+valu_control_unit
+I135HDSm@hPbFOBd7k@3PI1
+VEmZnnG[HPWzBnOSFQE;lm2
+R1
+w1514923601
+8D:/Final Projesi/alu_control_unit.v
+FD:/Final Projesi/alu_control_unit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Tldgl?DzdPm]J_6:oIl>i0
+!s85 0
+!s108 1515010363.781000
+!s107 D:/Final Projesi/alu_control_unit.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/alu_control_unit.v|
+!s101 -O0
+valu_testbench
+Io0J^[7i2_^9MDJERZiAV?1
+VN^B;K=YF1jHT`KC`UlBP_1
+R1
+w1514589127
+8D:/Final Projesi/alu_testbench.v
+FD:/Final Projesi/alu_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 >Aag]zcc7HOYdmeYoIMom0
+!s85 0
+!s108 1515010363.900000
+!s107 D:/Final Projesi/alu_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/alu_testbench.v|
+!s101 -O0
+vcontrol_unit
+IEX`eo]mg3^89BWaVh`DIb2
+V]fP9zO7;NDgUQbFCkPDe>1
+R1
+w1514992427
+8D:/Final Projesi/control_unit.v
+FD:/Final Projesi/control_unit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Xz<NFMME<1_UWVUOLVLm11
+!s85 0
+!s108 1515010364.098000
+!s107 D:/Final Projesi/control_unit.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/control_unit.v|
+!s101 -O0
+vcontrol_unit_testbench
+I_<G992j=WCbo`;J:cMSC=3
+VzF6QaKMNE51T;TWQSLDWQ0
+R1
+w1514908398
+8D:/Final Projesi/control_unit_testbench.v
+FD:/Final Projesi/control_unit_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 B1hWnLGDh[11`HhMT]knD0
+!s85 0
+!s108 1515010364.206000
+!s107 D:/Final Projesi/control_unit_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/control_unit_testbench.v|
+!s101 -O0
+vmips_core
+INVgBDCSZ6?n=<B6JDVcnY0
+V]5e]5Fm_HE?Q43[W4<FWn3
+R1
+w1514998311
+8D:/Final Projesi/mips_core.v
+FD:/Final Projesi/mips_core.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 7S_Pa_0HFlYh4[d9W_c[M2
+!s85 0
+!s108 1515010364.322000
+!s107 D:/Final Projesi/mips_core.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_core.v|
+!s101 -O0
+vmips_data_mem
+IDg_D8o`IccjG`Q^FPD?N:2
+Vih=zm[>`eQ?JGL4GCb0lV3
+R1
+w1514998291
+8D:/Final Projesi/mips_data_mem.v
+FD:/Final Projesi/mips_data_mem.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 0JdOAVhjO_l8_A0lFc7Qd0
+!s85 0
+!s108 1515010364.445000
+!s107 D:/Final Projesi/mips_data_mem.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_data_mem.v|
+!s101 -O0
+vmips_data_mem_testbench
+I[8a2^d`CR_az`?BXO>Dm71
+VJRVi:cQ?`UgnISLTG8fKZ3
+R1
+w1514631968
+8D:/Final Projesi/mips_data_mem_testbench.v
+FD:/Final Projesi/mips_data_mem_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 eS]B>oU15FBWg6Ki4X>lN2
+!s85 0
+!s108 1515010364.608000
+!s107 D:/Final Projesi/mips_data_mem_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_data_mem_testbench.v|
+!s101 -O0
+vmips_inst_mem_testbench
+Ibi?ZALT1]1a3Z2k]FE3zS3
+VPlAiUU1Fc9d[7U_P>3Y5?0
+R1
+w1514132756
+8D:/Final Projesi/mips_inst_mem_testbench.v
+FD:/Final Projesi/mips_inst_mem_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ^QFO`k_TmhcnfYaI^iKfA1
+!s85 0
+!s108 1515010364.734000
+!s107 D:/Final Projesi/mips_inst_mem_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_inst_mem_testbench.v|
+!s101 -O0
+vmips_instr_mem
+I?KRinHh8T81NHi@[[Un8[3
+VWI?LDEJ@`5imZY0<6h3QT2
+R1
+w1514995356
+8D:/Final Projesi/mips_instr_mem.v
+FD:/Final Projesi/mips_instr_mem.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 _W5iCaj5ZHjiCi]>JX3Un0
+!s85 0
+!s108 1515010364.873000
+!s107 D:/Final Projesi/mips_instr_mem.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_instr_mem.v|
+!s101 -O0
+vmips_registers
+IF[z6zammN`WG6cDcXbYWb1
+VIKjnY3G]3R=R@`]J?b;XX0
+R1
+w1514998292
+8D:/Final Projesi/mips_registers.v
+FD:/Final Projesi/mips_registers.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 7Z8ORz6505fTjAQZa>:Vc1
+!s85 0
+!s108 1515010364.997000
+!s107 D:/Final Projesi/mips_registers.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_registers.v|
+!s101 -O0
+vmips_registers_testbench
+IOPYG4CT4nmMIj^kJS]F7<3
+VD8:<JgVJ=eb2knE0cV7zI0
+R1
+w1514134560
+8D:/Final Projesi/mips_registers_testbench.v
+FD:/Final Projesi/mips_registers_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 LDbC9DZBYj=da4^_YTH=D2
+!s85 0
+!s108 1515010365.138000
+!s107 D:/Final Projesi/mips_registers_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_registers_testbench.v|
+!s101 -O0
+vmips_testbench
+!i10b 1
+!s100 BkE:f;>_0iKFk<S<AIg4I0
+IFbnncGnb3jn>ZAE4>=_a@0
+Vf2]IUD=7[>X:I4<2Q=7YA2
+R1
+w1514998163
+8D:/Final Projesi/mips_testbench.v
+FD:/Final Projesi/mips_testbench.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1515010365.259000
+!s107 D:/Final Projesi/mips_testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Final Projesi/mips_testbench.v|
+!s101 -O0
+R3

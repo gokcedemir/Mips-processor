@@ -1,0 +1,12 @@
+`define DELAY 20;
+module control_unit_testbench();
+
+wire RegDst, 
+reg Branch,
+reg MemRead, 
+reg MemtoReg,
+reg [2:0] ALUOp,  //bu output alu_control'a input olarak gider
+reg MemWrite, 
+reg ALUSrc,
+reg RegWrite,
+wire [5:0] opcode);  //instruction[31:26]

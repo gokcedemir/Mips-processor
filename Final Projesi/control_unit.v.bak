@@ -1,0 +1,5 @@
+module control_unit(ALUOp, controlSignal, instruction);
+
+output [2:0] ALUOp;       //bu output alu_control'a input olarak gider
+input [5:0] instruction;  // it comes instruction[31:26]
+
